@@ -22,6 +22,3 @@ The dataset used for this project is located in the `clients_single_blade` direc
 ## Experiment Results
 Detailed results from the experiments can be found in the `experiments_wind/experiment_1` directory. The latest results are in the `2023_11_27` subdirectory.
 
----
-
-This project is part of the Deep Learning 02456 course, focusing on the application and implications of federated learning and evidential deep learning
