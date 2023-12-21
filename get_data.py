@@ -2,8 +2,7 @@
 # -*-coding:utf-8 -*-
 '''
 @File    :   get_data.py
-@Time    :   2023/01/16 13:47:46
-@Author  :   Bo 
+@Author  :   Matija
 '''
 
 
